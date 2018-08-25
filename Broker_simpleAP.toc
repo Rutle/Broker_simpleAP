@@ -1,0 +1,14 @@
+## Interface: 80000
+## Title: Broker_simpleAP
+## Notes: Minimal LDB artifact power level and XP display.
+## Author: RuTle
+## Version: 1.0
+## SavedVariables: Broker_simpleAPDB
+
+#@no-lib-strip@
+libs\libs.xml
+#@end-no-lib-strip@
+
+libs\LibDataBroker-1.1.lua
+main.lua
+options.lua
